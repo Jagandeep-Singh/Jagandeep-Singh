@@ -41,9 +41,6 @@ I'm a Data Analyst with an MBA in Finance & IT, passionate about transforming da
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="gcp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" alt="microsoft sql server logo"  />
 </div>
 
 - **Data Analysis & Modeling:** Regression, Predictive Analytics, Statistical Modeling, Trend Analysis
