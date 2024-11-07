@@ -1,15 +1,12 @@
-# ![Header Image](https://via.placeholder.com/800x200/000000/FFFFFF?text=Jagandeep+Singh) <!-- Replace with your own header image -->
-
 <div style="background-color: #1e1e1e; color: #ffffff; padding: 20px; border-radius: 10px;">
 
 ## 🖥️ Jagandeep Singh
 
 **Data Analyst | MBA (Finance & IT)**
 
-📍 **Location:** [Your City, Country]  
+📍 **Location:** [Bareilly, UP, India]  
 📧 **Email:** [jdsingh0912@gmail.com](mailto:jdsingh0912@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/jagandsingh](https://www.linkedin.com/in/jagandsingh/)  
-💻 **Portfolio:** [Your Portfolio URL](#)
+🔗 **LinkedIn:** [linkedin.com/in/jagandsingh](https://www.linkedin.com/in/jagandsingh/) 
 
 ---
 
