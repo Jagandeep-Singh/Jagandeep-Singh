@@ -19,13 +19,13 @@ I'm a Data Analyst with an MBA in Finance & IT, passionate about transforming da
 
 
 ## Rapidfire  
-- 🔭 Currently seeking a data analyst role.  
+- 🔭 Currently seeking to kick start my data analyst career.  
   
 
 - 🌱 Constantly expanding my knowledge in advanced analytics, data modeling, and machine learning.  
   
 
-- ⚡  In my free time, I enjoy exploring data-driven stories and improving my skills in Power BI and R Studio.  
+- ⚡  In my free time, I enjoy exploring data-driven stories and improving my skills in Power BI and Python.  
   
 
 <br/>  
