@@ -22,7 +22,7 @@ I'm a Data Analyst with an MBA in Finance & IT, passionate about transforming da
 
 
 ## Rapidfire  
-- 🔭 Currently seeking to trainee and job opportunities start my data analyst career.  
+- 🔭 Currently seeking trainee roles and job opportunities to start my data analyst career.  
   
 
 - 🌱 Constantly expanding my knowledge in advanced analytics, data modeling, and machine learning.  
