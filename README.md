@@ -7,9 +7,10 @@
 <a href="https://github.com/Jagandeep-Singh" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="mailto:jdsingh0912@gmail.com" target="_blank">
+<a href="https://mail.google.com/mail/?view=cm&to=jagandeep.singh@example.com" target="_blank">
 <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="email" style="margin-bottom: 5px;" />
-</a> 
+</a>
+ 
   
 
 
